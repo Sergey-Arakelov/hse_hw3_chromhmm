@@ -49,3 +49,7 @@ Nhek|H3k09me3|H3k09me3AlnRep1.bam|ControlStdAlnRep1.bam
 8 | Также располагается в области слабого промотора и иногда в области начала гена | H3k27me3| Weak Promoter
 9 | Является репрессированным гетерохроматином, самое популярное состояние для генома | - | Repressed Heterochromatin
 10 | Так же, как и "9", совпадает с доменами, ассоциированными с ядерной ламиной | H2k9me3 | Repressed Heterochromatin
+
+## Бонусная задача
+![image](https://user-images.githubusercontent.com/93254228/160728800-afa02a1a-fa16-48f1-afc6-42cf2869d212.png)
+(код коллабе)
